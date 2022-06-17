@@ -1,4 +1,4 @@
-## Olá meu nome é Elias Graciano Rebequi, sou Desenvolvedor Web, gosto muito do mundo de JavaScript (NodeJS,Angular,ReactJS,Vue) e Server-side(PHP e C#).
+## Olá meu nome é Elias Graciano Rebequi, sou Desenvolvedor Web, gosto muito do mundo de JavaScript (NodeJS,Angular,ReactJS,Vue) e das Server-side(PHP e C#).
 <div align="left">
   <a href="https://github.com/EliasGRBR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGRBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=fff&bg_color=90,000000,626262"/>
@@ -8,10 +8,14 @@
   <img align="center" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elias-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Elias-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Elias-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Elias-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Elias-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Elias-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
 </div>
   
   ##
