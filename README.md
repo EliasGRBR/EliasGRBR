@@ -1,8 +1,8 @@
 ## Olá meu nome é Elias Graciano Rebequi, sou Desenvolvedor Web, gosto muito do mundo de JavaScript (NodeJS,Angular,ReactJS,Vue) e Server-side(PHP e C#).
 <div align="left">
   <a href="https://github.com/EliasGRBR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGRBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=fff&bg_color=90,000000,000000bd"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGRBR&layout=compact&langs_count=7&theme=dark&bg_color=90,000000,000000bd"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGRBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=fff&bg_color=90,000000,626262"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGRBR&layout=compact&langs_count=7&theme=dark&bg_color=90,000000,626262"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
